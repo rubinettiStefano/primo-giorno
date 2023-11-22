@@ -1,6 +1,0 @@
-Componenti del PC
-
-Variabile
-Espressione
-Sequenza
-I/O
