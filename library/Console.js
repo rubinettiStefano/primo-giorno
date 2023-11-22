@@ -13,12 +13,16 @@ function  readInt()
 
      if(isNaN(res))
           throw "Non hai inserito un numero, il programma è crashato";
+
+     return res;
 }
 function readDouble()
 {
      let res = parseFloat(readline.question(""));
      if(isNaN(res))
           throw "Non hai inserito un numero, il programma è crashato";
+     
+     return res;
 }
 
 function print(message)
